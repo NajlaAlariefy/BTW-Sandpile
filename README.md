@@ -15,6 +15,8 @@ You can run this simulation in two ways:
     - Make sure you have [Jupyter Notbook](https://jupyter.org/install) installed
     - Run the cells in **BTW Sandpile Simulation.ipynb**
 
+You can also run this document in [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/NajlaAlariefy/BTW-Sandpile/master?filepath=https%3A%2F%2Fgithub.com%2FNajlaAlariefy%2FBTW-Sandpile%2Fblob%2Fmaster%2FBTW%2520Sandpile%2520Simulation.ipynb).
+
 2. **Command line** : run the following command to run the sandpile simulation 
 
 <i style='color: green'> default parameters: </i>  
